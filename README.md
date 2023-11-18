@@ -5,7 +5,9 @@ Projeto com a temática de cafeteria utilizando Bootstrap para aulas de "Framewo
 ## 🚀 Demonstração
 
 Versão Desktop:
-![image](https://github.com/AndersonBHBR/coffee-shop-bootstrap/assets/images/final-project-capture-desktop.png)
+![image](https://github.com/AndersonBHBR/coffee-shop-bootstrap/blob/main/assets/images/final-project-capture-desktop.png)
+Versão Mobile:
+![image](https://github.com/AndersonBHBR/coffee-shop-bootstrap/blob/main/assets/images/final-project-capture-mobile.png)
 [Clique aqui](https://andersonbhbr.github.io/coffee-shop-bootstrap/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
