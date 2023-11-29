@@ -25,4 +25,4 @@ Versão Desktop:
 <p>
 
 ---
-⌨️ com ❤️ por [Anderson Lima Araújo](https://github.com/AndersonBHBR) 😊#
+⌨️ por [Anderson Lima Araújo](https://github.com/AndersonBHBR) 😊#
